@@ -1,0 +1,19 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive tests"
+  },
+  "author": "Gaurav",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^7.1.2",
+    "mongoose": "^5.9.12",
+    "nodemon": "^2.0.3",
+    "supertest": "^4.0.2"
+  }
+}
